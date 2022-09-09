@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/errors/404", {data:[{}],fetch:{},mutations:[]});

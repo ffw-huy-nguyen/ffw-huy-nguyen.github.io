@@ -1,0 +1,7 @@
+{
+  "api_endpoint": "https://test-cmclientapi.azurewebsites.net/api",
+  "username": "TrumenbaPatientAdherence",
+  "password": "A6$g99e*BUu!pSR!*csXJE",
+  "gtm_key": "GTM-PH3SGQZ",
+  "recaptcha_site_key": "6Lc7EH0hAAAAADG2S8VYeNo7jxRgfXgHCnlSjjM_"
+}

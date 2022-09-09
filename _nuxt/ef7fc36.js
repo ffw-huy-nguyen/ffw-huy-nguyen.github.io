@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{380:function(n,e,t){"use strict";t.r(e);var o={},c=t(10),component=Object(c.a)(o,(function(){return(0,this._self._c)("div",[this._v("\n  KOL Video\n")])}),[],!1,null,"4f85e572",null);e.default=component.exports}}]);
